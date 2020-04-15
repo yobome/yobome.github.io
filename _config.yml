@@ -98,19 +98,19 @@ theme: next-reloaded
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  # type: 'git'
-  # repo: git@github.com:yobome/yobome.github.io.git
-  # branch: master
-  - type: git
-    repo: git@github.com:yobome/yobome.github.io.git
-    branch: master
-  - type: git
-    repo: git@github.com:yobome/yobome.github.io.git
-    branch: hexo
-    extend_dirs: /
-    ignore_hidden: false
-    ignore_pattern:
-      public: .
+  type: 'git'
+  repo: git@github.com:yobome/yobome.github.io.git
+  branch: master
+  # - type: git
+  #   repo: git@github.com:yobome/yobome.github.io.git
+  #   branch: master
+  # - type: git
+  #   repo: git@github.com:yobome/yobome.github.io.git
+  #   branch: hexo
+  #   extend_dirs: /
+  #   ignore_hidden: false
+  #   ignore_pattern:
+  #     public: .
 
 all_minifier: true
 
