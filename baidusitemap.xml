@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://yobome.top/2020/04/18/redis-string/</loc>
+    <lastmod>2020-04-18</lastmod>
+  </url>  <url>
     <loc>https://yobome.top/2020/04/17/redis-datatype/</loc>
-    <lastmod>2020-04-16</lastmod>
+    <lastmod>2020-04-18</lastmod>
   </url>  <url>
     <loc>https://yobome.top/2020/04/17/redis-operation/</loc>
-    <lastmod>2020-04-16</lastmod>
+    <lastmod>2020-04-17</lastmod>
   </url>  <url>
     <loc>https://yobome.top/2020/04/17/redis-install/</loc>
-    <lastmod>2020-04-16</lastmod>
+    <lastmod>2020-04-17</lastmod>
   </url>  <url>
     <loc>https://yobome.top/2020/04/17/redis-intro/</loc>
-    <lastmod>2020-04-16</lastmod>
+    <lastmod>2020-04-17</lastmod>
   </url>  <url>
     <loc>https://yobome.top/2020/04/08/valineadminissue/</loc>
     <lastmod>2020-04-08</lastmod>

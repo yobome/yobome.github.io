@@ -2,30 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yobome.top/2020/04/18/redis-string/</loc>
+    
+    <lastmod>2020-04-18T08:33:26.932Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://yobome.top/2020/04/17/redis-datatype/</loc>
     
-    <lastmod>2020-04-16T16:40:48.756Z</lastmod>
+    <lastmod>2020-04-18T08:32:17.758Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://yobome.top/2020/04/17/redis-operation/</loc>
     
-    <lastmod>2020-04-16T16:40:30.818Z</lastmod>
+    <lastmod>2020-04-17T00:51:15.984Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://yobome.top/2020/04/17/redis-install/</loc>
     
-    <lastmod>2020-04-16T16:40:13.013Z</lastmod>
+    <lastmod>2020-04-17T00:51:12.939Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://yobome.top/2020/04/17/redis-intro/</loc>
     
-    <lastmod>2020-04-16T16:39:51.580Z</lastmod>
+    <lastmod>2020-04-17T00:51:08.507Z</lastmod>
     
   </url>
   
