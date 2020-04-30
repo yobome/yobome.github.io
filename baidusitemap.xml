@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://yobome.top/2020/04/30/redis-set/</loc>
+    <lastmod>2020-04-30</lastmod>
+  </url>  <url>
+    <loc>https://yobome.top/2020/04/30/redis-list/</loc>
+    <lastmod>2020-04-30</lastmod>
+  </url>  <url>
     <loc>https://yobome.top/2020/04/20/redis-hash/</loc>
     <lastmod>2020-04-19</lastmod>
   </url>  <url>
